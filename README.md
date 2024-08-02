@@ -2,7 +2,7 @@
 The Redux Counter project demonstrates the integration of Redux, a predictable state container, with React for managing application state. The counter allows users to increment and decrement a numerical value, showcasing how Redux manages state changes in a React application.
 
 # Technologies Used
-react, redux, react-redux
+react, redux, react-redux, tailwindCSS
 
 # Project Structure
 • src/actions: Contains action types and action creators for the counter.
