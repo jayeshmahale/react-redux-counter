@@ -6,7 +6,11 @@ react, redux, react-redux
 
 # Project Structure
 • src/actions: Contains action types and action creators for the counter.
+
 • src/reducers : Holds the counter reducer and the root reducer combining all reducers.
+
 • src/store : Defines the Redux store.
+
 • src/components : Includes the main Counter component.
+
 • src/App.js : Entry point of the application.
