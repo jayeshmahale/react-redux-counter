@@ -13,4 +13,10 @@ react, redux, react-redux, tailwindCSS
 
 • src/components : Includes the main Counter component.
 
+
+https://github.com/user-attachments/assets/ffab26b9-3824-4c96-b31a-170d983ae9f7
+
+
 • src/App.js : Entry point of the application.
+
+# Output
